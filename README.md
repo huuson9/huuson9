@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huu Son</h1>
 <h3 align="center">I'm currently studying HEDSPI at Hanoi University of Science and Technology in Viet Nam..</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huuson9" alt="huuson9" /></a> </p>
-
 - 📫 How to reach me **huuson99812002@gmail.com**
 
 - ⚡ Fun fact **I like cat**
