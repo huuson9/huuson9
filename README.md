@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **huuson99812002@gmail.com**
 
-- ⚡ Fun fact **I like cat**
+- ⚡ Fun fact **I code to take care of my cat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
